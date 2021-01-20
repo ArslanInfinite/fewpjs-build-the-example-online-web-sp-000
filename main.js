@@ -4,10 +4,10 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-document.addEventListener('DOMContentLoaded', function () {
-  const hideThis = document.getElementById('modal')
-  hideThis.hidden = true;
-});
+// document.addEventListener('DOMContentLoaded', function () {
+//   const hideThis = document.getElementById('modal')
+//   hideThis.hidden = true;
+// });
 
 // const emptyHearts = document.querySelectorAll('#like-glyph')
 
